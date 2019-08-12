@@ -56,6 +56,8 @@
 
 ## About freesewing
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/freesewing/freesewing.svg)](https://greenkeeper.io/)
+
 FreeSewing is JavaScript library for made-to-measure sewing patterns.
 
 ## Links
