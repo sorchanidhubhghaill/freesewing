@@ -28,7 +28,7 @@
     "watch": "npx node-sass --watch --output-style compressed src/theme.scss dist/theme.css"
   },
   "dependencies": {
-    "open-color": "1.6.3"
+    "open-color": "1.7.0"
   },
   "files": [
     "dist/*",
